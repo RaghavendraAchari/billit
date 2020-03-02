@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Billit</string>
+    <string name="image_descrption">Image</string>
+    <string name="bill_title">Bill Title</string>
+
+    <string name="bill_desc">Bill Description</string>
+    <string name="input_bill_desc">Bill Description</string>
+    <string name="Photocopy_of_the_bill">Photocopy of the bill</string>
+    <string name="camera_button_desc">Camera Button</string>
+
+    <string name="add_bill">Add Bill</string>
+
+    <string name="cancel_bill">Cancel</string>
+
+    <string name="input_get_bill">Enter store details...</string>
+
+</resources>
